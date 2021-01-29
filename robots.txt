@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /ecole-web/wp-admin/
+Allow: /ecole-web/wp-admin/admin-ajax.php
