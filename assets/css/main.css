@@ -37,6 +37,10 @@ ol, ul {
 	list-style: none;
 }
 
+h2.news{
+	font-size: 50px;
+}
+
 blockquote, q {
 	quotes: none;
 }
